@@ -338,6 +338,7 @@ $RECYCLE.BIN/
 .idea/
 
 tutorials/
+dataset/
 
 About_the_project.doc
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,venv,windows,jupyternotebooks
